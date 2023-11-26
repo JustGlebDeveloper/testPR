@@ -1,2 +1,3 @@
 const a = 10;
-a++
+a++;
+const b = 20;
